@@ -1,0 +1,16 @@
+# Day 10: Git Practice
+
+## What I Learned
+- Initialising repositories
+- Staging and committing changes
+- Creating branches
+- Pushing to GitHub
+- Pull requests and merging
+
+## Commands Practised
+- git init
+- git add
+- git commit
+- git push
+- git branch
+- git merge
